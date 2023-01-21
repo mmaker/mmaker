@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mmaker (Michele Orrù)
+- 👋 Hi, I’m Michele Orrù ([@mmaker](https://twitter.com/mmaker))
 - 👀 I’m a cryptographer, mathematician and open source developer 
 - 🥷🏻 I’m interested in cryptography for anonymity and authentication
 - 🏛️ I am a _research scholar_ at [UC Berkeley](https://eecs.berkeley.edu/) under the supervision of [Alessandro Chiesa](people.eecs.berkeley.edu/~alexch)
