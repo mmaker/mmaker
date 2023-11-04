@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Michele Orrù ([@mmaker](https://twitter.com/mmaker))
-- 👀 I’m a cryptographer, mathematician and open source developer 
-- 🥷🏻 I’m interested in cryptography for anonymity and authentication
-- 🏛️ I am a [CNRS](https://www.cnrs.fr/en/cnrs) [_research scientist_](https://en.wikipedia.org/wiki/Academic_ranks_in_France#Research-only_positions) at **[Sorbonne Université](https://www.sorbonne-universite.fr/)**.
-- 🎨 Previously, I was a research scholar at [UC Berkeley](https://eecs.berkeley.edu/). I got my PhD from the [École](https://ens.fr) with [Georg Fuchsbauer](https://www.di.ens.fr/~fuchsbau/)
+ 👋 Hi, I’m Michele Orrù ([@mmaker](https://twitter.com/mmaker))
+
+ 🏛️ I am a [CNRS](https://www.cnrs.fr/en/cnrs) [_research scientist_](https://en.wikipedia.org/wiki/Academic_ranks_in_France#Research-only_positions) at **[Sorbonne Université](https://www.sorbonne-universite.fr/)**.
+
+ 🥷🏻 I’m interested in cryptography for anonymity and authentication
+
+🎨 Previously, I was a research scholar at [UC Berkeley](https://eecs.berkeley.edu/). I got my PhD from the [École](https://ens.fr) with [Georg Fuchsbauer](https://www.di.ens.fr/~fuchsbau/)
