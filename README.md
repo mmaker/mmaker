@@ -1,6 +1,6 @@
  👋 Hi, I’m Michele Orrù ([@mmaker](https://twitter.com/mmaker))
 
- 🏛️ I am a [CNRS](https://www.cnrs.fr/en/cnrs) [_research scientist_](https://en.wikipedia.org/wiki/Academic_ranks_in_France#Research-only_positions) at **[Sorbonne Université](https://www.sorbonne-universite.fr/)**.
+ 🏛️ I am a [CNRS](https://www.cnrs.fr/en/cnrs) [_research scientist_](https://en.wikipedia.org/wiki/Academic_ranks_in_France#Research-only_positions).
 
  🥷🏻 I’m interested in cryptography for anonymity and authentication
 
