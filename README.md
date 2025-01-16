@@ -4,4 +4,5 @@
 
  🥷🏻 I’m interested in cryptography for anonymity and authentication
 
-🎨 Previously, I was a research scholar at [UC Berkeley](https://eecs.berkeley.edu/). I got my PhD from the [École](https://ens.fr) with [Georg Fuchsbauer](https://www.di.ens.fr/~fuchsbau/)
+🎨 Previously, I was a scholar at [UC Berkeley](https://eecs.berkeley.edu/). I got my PhD from the [École](https://ens.fr).
+
